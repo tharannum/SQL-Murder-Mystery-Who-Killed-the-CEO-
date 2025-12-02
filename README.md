@@ -3,7 +3,7 @@
   This repository contains the SQL queries and findings used to solve the "Who Killed the CEO of TechNova Inc.?" murder mystery.
  The case was solved by analysing various corporate data logs, including keycard entries, phone call records, alibis, and physical evidence reports.
 
-📂 [View the Presentation Slides (Link to PPT Here)] 📂
+📂 [View the Presentation Slides ( https://acrobat.adobe.com/id/urn:aaid:sc:AP:2df66491-4306-4076-8799-6c16a7a7c3f1)] 📂
 
 -----
 
