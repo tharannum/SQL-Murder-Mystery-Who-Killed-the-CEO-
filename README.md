@@ -1,18 +1,17 @@
 ## 🔪 SQL Murder Mystery: Who Killed the CEO?
 
-[cite_start]This repository contains the SQL queries and findings used to solve the "Who Killed the CEO of TechNova Inc.?" murder mystery[cite: 1, 2].
-
-[cite_start]The case was solved by analyzing various corporate data logs, including keycard entries, phone call records, alibis, and physical evidence reports[cite: 4, 5, 6, 7, 8].
+  This repository contains the SQL queries and findings used to solve the "Who Killed the CEO of TechNova Inc.?" murder mystery.
+ The case was solved by analysing various corporate data logs, including keycard entries, phone call records, alibis, and physical evidence reports.
 
 -----
 
 ### 🎯 Mission
 
-[cite_start]The goal was to use **only SQL queries** to determine the killer, the location, the time, and the circumstances of the crime[cite: 10].
+ The goal was to use **only SQL queries** to determine the killer, the location, the time, and the circumstances of the crime .
 
   *  **Victim:** CEO of TechNova Inc.  
-  * [cite_start]**Reported Time of Death:** October 15, 2025, at 9:00 PM  
-  * [cite_start]**Role:** Lead Data Analyst  
+  *  **Reported Time of Death:** October 15, 2025, at 9:00 PM  
+  *  **Role:** Lead Data Analyst  
 
 -----
 
